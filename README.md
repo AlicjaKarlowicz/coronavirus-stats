@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Coronavirus statistics
+
+Using  https://coronavirus-19-api.herokuapp.com/countries
+
+![alt text](https://github.com/AlicjaKarlowicz/coronavirus-stats/blob/master/view1.png?raw=true)
+![alt text](https://github.com/AlicjaKarlowicz/coronavirus-stats/blob/master/view2.png?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
