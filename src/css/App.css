@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: rgba(14, 14, 14, 0.97);
+  color: #f5f2f2;
+  overflow: auto;
+}
+
+ul{
+  overflow: hidden;
+  overflow-y: scroll;
+  height: 400px;
+}
+
+li{
+  overflow: auto;
+}
+
+h1 {
+  color: white;
+  padding-left: 30px;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  color: white;
+  font-weight: normal;
+}

@@ -1,0 +1,31 @@
+ul {
+    list-style-type: none;
+}
+li{
+    background-color: rgb(32, 35, 36);
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-right: 20px;
+}
+
+button{
+    margin-top: 10px;
+    background-color: #312f2f;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #c9c8c8;
+    font-size: 16px;
+}
+
+p{
+    color: #c9c8c8;
+    margin: 5px;
+}
+
+a{
+    padding: 8px;
+    color: #eff0f1;
+    text-decoration: none;
+}
