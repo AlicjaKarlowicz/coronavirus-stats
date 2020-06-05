@@ -1,8 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Coronavirus statistics
+## Coronavirus statistics
 
 Using  https://coronavirus-19-api.herokuapp.com/countries
+
+By clicking Compare button charts display
 
 ![alt text](https://github.com/AlicjaKarlowicz/coronavirus-stats/blob/master/src/img/view1.png?raw=true)
 ![alt text](https://github.com/AlicjaKarlowicz/coronavirus-stats/blob/master/src/img/view2.png?raw=true)
